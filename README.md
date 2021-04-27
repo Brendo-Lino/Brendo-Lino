@@ -2,8 +2,7 @@
 I'm a Web, Desktop and Bukkit Plugins developer. I'm currently finishing high school, then i pretend to join a Software Engineering university. I spend most part of my time coding, but when i'm not doing it, you would probably find me playing some games or watching youtube videos.
 
 ### 💼 Where i am currently working at/as
-- [Bukkit Community: Freelancer]
-- [Open World: Freelancer]
+- [NightSky Network] Developer
 
 ###  📚 My currently learning progress
 - Full Stack Web Development * 10% *
