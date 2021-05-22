@@ -1,12 +1,17 @@
 ## Hello there! My name is Brendo. 👋
-I'm a Web, Desktop and Bukkit Plugins developer. I'm currently finishing high school, then i pretend to join a Software Engineering university. I spend most part of my time coding, but when i'm not doing it, you would probably find me playing some games or watching youtube videos.
+I'm a Web, Desktop and Bukkit-Plugins developer. I'm currently studying Information Systems at Federal University of Minas Gerais. I spend most part of my time coding, studying, playing and watching youtube videos.
 
 ### 💼 Where i am currently working at/as
-- [NightSky Network] Developer
+- Freelance Developer
 
-###  📚 My currently learning progress
-- Full Stack Web Development * 10% *
-- Java * 20% *
+###  📚 My currently learning interests and progress
+- Java - *Good*
+- JavaScript - *Fine*
+- DiscordJS - *Basic*
+- Node - *Basic*
+- React - *Fundamentals*
+- Docker - *Fundamentals*
+- Databases - *Fundamentals*
 
 ### 📫 Where to find me
 - [Facebook](https://www.facebook.com/brendo.getico.969) 😎
