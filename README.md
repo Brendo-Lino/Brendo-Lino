@@ -5,13 +5,13 @@ I'm a Web, Desktop and Bukkit-Plugins developer. I'm currently studying Informat
 - Freelance Developer
 
 ###  📚 My currently learning interests and progress
-- Java - *Good*
-- JavaScript - *Fine*
-- DiscordJS - *Basic*
-- Node - *Basic*
-- React - *Fundamentals*
-- Docker - *Fundamentals*
-- Databases - *Fundamentals*
+- Java
+- JavaScript
+- DiscordJS
+- Node
+- React
+- Docker
+- Databases
 
 ### 📫 Where to find me
 - [Facebook](https://www.facebook.com/brendo.getico.969) 😎
