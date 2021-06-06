@@ -1,22 +1,18 @@
 ## Hello there! My name is Brendo. 👋
-I'm a Web, Desktop and Bukkit-Plugins developer. I'm currently studying Information Systems at Federal University of Minas Gerais. I spend most part of my time coding, studying, playing and watching youtube videos.
-
-### 💼 Where i am currently working at/as
-- Freelance Developer
+I'm a developer. Currently studying Information Systems at Federal University of Minas Gerais. Spend most part of my time coding and studying.
 
 ###  📚 My currently learning interests and progress
 - Java
+- Kotlin
 - JavaScript
 - DiscordJS
-- Node
 - React
 - Docker
-- Databases
+- Node
+- MySQL
+- MongoDB
 
 ### 📫 Where to find me
-- [Facebook](https://www.facebook.com/brendo.getico.969) 😎
-- [Instagram](https://www.instagram.com/brendolinozinho/) 😏
-- [LinkedIn](https://www.linkedin.com/in/brendo-g%C3%A9tico-eug%C3%AAnio-7b75a71b1/) 💼
-- [Website](https://brendo-lino.github.io/) 💻
+- Discord: Brendolino#4177
 
 ![Brendo-Lino's Github Stats](https://github-readme-stats.vercel.app/api?username=brendo-lino&show_icons=true&theme=radical)
